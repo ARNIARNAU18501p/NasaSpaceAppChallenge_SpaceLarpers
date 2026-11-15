@@ -1,0 +1,661 @@
+{
+    "moon": {
+        "apollo": {
+            "index": [
+                ["Apollo 1", "27 January 1967 · Grissom, White, Chaffee", "lost", "They never left the launch pad, but they made the Moon possible."],
+                ["Apollo 4", "9 November 1967 · Uncrewed", "test", "The first Saturn V flew perfectly on its first try."],
+                ["Apollo 5", "22 January 1968 · Uncrewed", "test", "The Lunar Module flew in space for the first time, with no one aboard."],
+                ["Apollo 6", "4 April 1968 · Uncrewed", "test", "The troubled second Saturn V flight, fixed before any crew flew on it."],
+                ["Apollo 7", "11 October 1968 · Schirra, Eisele, Cunningham", "orbit", "The first crewed Apollo flight proved the redesigned spacecraft."],
+                ["Apollo 8", "21 December 1968 · Borman, Lovell, Anders", "orbit", "The first humans to circle the Moon and see Earth rise over it."],
+                ["Apollo 9", "3 March 1969 · McDivitt, Scott, Schweickart", "orbit", "The first crewed test of the Lunar Module, flown in Earth orbit."],
+                ["Apollo 10", "18 May 1969 · Stafford, Young, Cernan", "orbit", "The full dress rehearsal for the landing, within 15 km of the surface."],
+                ["Apollo 11", "16 July 1969 · Armstrong, Aldrin, Collins", "land", "Humans walked on the Moon for the first time."],
+                ["Apollo 12", "14 November 1969 · Conrad, Gordon, Bean", "land", "A pinpoint landing, after the rocket was struck by lightning."],
+                ["Apollo 13", "11 April 1970 · Lovell, Swigert, Haise", "lost", "An explosion on the way to the Moon became the greatest rescue in spaceflight."],
+                ["Apollo 14", "31 January 1971 · Shepard, Mitchell, Roosa", "land", "Alan Shepard reached Fra Mauro, the site Apollo 13 could not."],
+                ["Apollo 15", "26 July 1971 · Scott, Irwin, Worden", "land", "The first “J” mission: a lunar rover and real field geology."],
+                ["Apollo 16", "16 April 1972 · Young, Duke, Mattingly", "land", "The only landing in the lunar highlands."],
+                ["Apollo 17", "7 December 1972 · Cernan, Schmitt, Evans", "land", "The last humans on the Moon, with a geologist on the surface."]
+            ],
+            "explanations": [
+                [
+                    ["Crew: Gus Grissom, Ed White and Roger Chaffee. AS-204 was to be the first crewed Apollo flight, up to 14 days in Earth orbit on a Saturn IB, set for 21 February 1967."],
+                    ["On 27 January 1967 the crew sat in the capsule on Pad 34 for a “plugs-out” test. At 6:31 p.m. EST a voltage surge was recorded and Chaffee called out “Flames!” The last communication ended 17 seconds after the first sign of fire. The inward-opening hatch was held shut by pressure and the cabin held pure oxygen, so the fire spread in seconds."],
+                    ["Spacecraft CSM-012 (Block I), about 20,000 kg. The review board blamed a spark from damaged wiring, flammable materials and management failures. The Block II redesign added a new hatch."],
+                    ["The fire killed three astronauts but led to a safer spacecraft. About 18 months passed before the next crewed flight, and NASA kept the name Apollo 1 in their memory."]
+                ],
+                [
+                    ["Uncrewed test launched 9 November 1967 from Launch Complex 39A. Goal: test the first Saturn V and the heat shield at lunar-return speed."],
+                    ["The third stage reached orbit, restarted, and lifted the spacecraft to about 18,000 km. The service engine then pushed the capsule back at about 11 km/s, and it splashed down in the Pacific after 8 h 37 min."],
+                    ["Saturn V SA-501 with CSM-017 (Block I) and a Lunar Module test article."],
+                    ["A nearly flawless debut that let NASA test every stage together from the first flight."]
+                ],
+                [
+                    ["Uncrewed, launched 22 January 1968 on a Saturn IB from Pad 37B. Goal: test LM-1, its engines and staging."],
+                    ["The first descent burn was cut short by the computer, and ground controllers replaced it with a planned sequence. The “fire in the hole” test fired the ascent engine while the descent stage was attached, as needed in a landing abort."],
+                    ["LM-1 had no landing legs. The descent engine was the first throttleable rocket engine in a spacecraft. Flight about 11 hours."],
+                    ["Key Lunar Module systems worked, clearing the vehicle for crewed tests."]
+                ],
+                [
+                    ["Uncrewed, launched 4 April 1968. Goal: repeat the Saturn V test and the high-speed reentry."],
+                    ["Severe “pogo” vibration hit the first stage. Two of five second-stage engines shut down, and the third stage failed to restart, so the trans-lunar burn was cancelled. The service engine raised the apogee to about 22,000 km."],
+                    ["Saturn V SA-502 with CSM-020 and a Lunar Module test article."],
+                    ["Engineers fixed the pogo problem and fuel lines, and the next Saturn V carried astronauts around the Moon."]
+                ],
+                [
+                    ["Crew: Wally Schirra, Donn Eisele and Walt Cunningham. Launched 11 October 1968 on a Saturn IB for 10 days 20 hours."],
+                    ["The crew practiced rendezvous with the spent stage, fired the service engine eight times and made the first live TV broadcasts from a US spacecraft. All three had head colds, which led to clashes with mission control."],
+                    ["CSM-101 (Block II), about 163 orbits."],
+                    ["A technical success that cleared Apollo 8 to go to the Moon."]
+                ],
+                [
+                    ["Crew: Frank Borman, Jim Lovell and Bill Anders. Launched 21 December 1968 on Saturn V. Delays with the Lunar Module changed the plan to a lunar orbit flight."],
+                    ["After trans-lunar injection the crew entered lunar orbit on 24 December and circled the Moon 10 times in about 20 hours. They took the Earthrise photo and read from Genesis on Christmas Eve. Splashdown 27 December after 6 days 3 hours."],
+                    ["Saturn V SA-503, CSM-103 and a Lunar Module test article. Orbit about 110 km high; the return burn was done out of contact behind the Moon."],
+                    ["Apollo 8 showed the Moon was reachable and gave the programme a major boost."]
+                ],
+                [
+                    ["Crew: Jim McDivitt, Dave Scott and Rusty Schweickart. Launched 3 March 1969, 10 days 1 hour in Earth orbit."],
+                    ["The crew docked with the Lunar Module “Spider” (command module “Gumdrop”). Schweickart made a spacewalk to test the backpack, and McDivitt and Schweickart flew Spider alone up to about 183 km away before docking again."],
+                    ["LM-3 and CSM-104. First flight with all lunar hardware."],
+                    ["All Lunar Module goals were met, clearing the way for Apollo 10."]
+                ],
+                [
+                    ["Crew: Tom Stafford, John Young and Gene Cernan. Launched 18 May 1969, about 8 days. Goal: rehearse everything except the landing."],
+                    ["Stafford and Cernan took “Snoopy” down to about 15.6 km over the Sea of Tranquility while Young stayed in “Charlie Brown”. A switch error made the Lunar Module spin briefly. The return reached about 39,900 km/h, the human speed record."],
+                    ["Saturn V SA-505, LM-4 (too heavy to land), CSM-106."],
+                    ["Navigation and communications were proven, so Apollo 11 could land."]
+                ],
+                [
+                    ["Crew: Neil Armstrong, Buzz Aldrin and Michael Collins. Launched 16 July 1969, 13:32 UT, on Saturn V AS-506 from Pad 39A. Goal: land two men on the Moon and return them, the goal Kennedy set on 25 May 1961."],
+                    ["Eagle landed in the Sea of Tranquility at 20:17:40 UT on 20 July after alarms 1202 and 1201, with Armstrong flying part of the descent by hand. The moonwalk lasted a little over 2.5 hours and the crew spent 21 h 36 min on the surface, collecting 21.55 kg of samples. About 650 million people watched. Splashdown 24 July, total flight 195 h 18 min 35 s."],
+                    ["Columbia was CSM-107 and Eagle was LM-5 (15,103 kg). Descent engine about 45,000 N, ascent engine about 15,000 N. Landing site 0.67416° N, 23.47314° E. The 48 kg EASEP package stopped responding on 27 August 1969."],
+                    ["Apollo 11 met its objective and set the template for later landings. Columbia is at the National Air and Space Museum. Sources disagree on the Lunar Module jettison time, so check the Mission Report."]
+                ],
+                [
+                    ["Crew: Pete Conrad, Dick Gordon and Alan Bean. Launched 14 November 1969. Goal: a precise landing near Surveyor 3 in the Ocean of Storms."],
+                    ["Lightning struck the rocket twice after liftoff and knocked out much of the electrics until controllers restored data. “Intrepid” landed on 19 November about 180 m from Surveyor 3. Two moonwalks totalled about 7 hours, and parts of Surveyor 3 came home. Bean’s TV camera was pointed at the Sun and failed."],
+                    ["Saturn V SA-507, LM-6, CSM-108. About 34 kg of samples; flight 10 days 4 hours."],
+                    ["It showed pinpoint landings were possible, which later missions to difficult sites needed."]
+                ],
+                [
+                    ["Crew: Jim Lovell, Jack Swigert and Fred Haise. Swigert replaced Ken Mattingly three days before launch on 11 April 1970. Goal: Fra Mauro."],
+                    ["About 56 hours in, oxygen tank 2 exploded. The crew used “Aquarius” as a lifeboat, looped around the Moon on a free-return path and fired the Lunar Module engine to speed the return. Engineers improvised a way to fit command module filters to the Lunar Module when carbon dioxide rose. Splashdown 17 April."],
+                    ["Saturn V SA-508, CSM-109 “Odyssey”, LM-7 “Aquarius”. Damaged wire insulation and a thermostat switch rated for 28 V that saw 65 V in ground testing caused the failure."],
+                    ["No lives were lost. Tanks were redesigned and an extra oxygen tank and spare battery were added."]
+                ],
+                [
+                    ["Crew: Alan Shepard, Edgar Mitchell and Stuart Roosa. Launched 31 January 1971. Goal: Fra Mauro, Apollo 13’s target."],
+                    ["Docking took six tries and a faulty abort switch needed a software workaround. After landing on 5 February, two moonwalks of about 9 hours used a hand cart, and the crew fell short of Cone Crater. Shepard hit two golf balls."],
+                    ["Saturn V SA-509, LM-8 “Antares”, CSM-110 “Kitty Hawk”. About 42 kg of samples; splashdown 9 February."],
+                    ["A confidence-restoring success after Apollo 13."]
+                ],
+                [
+                    ["Crew: Dave Scott, Jim Irwin and Al Worden. Launched 26 July 1971, 12 days 7 hours. Goal: Hadley Rille and the Apennine Mountains."],
+                    ["Landing on 30 July. Three moonwalks of about 18.5 hours with the first Lunar Roving Vehicle (about 28 km). Samples included the “Genesis Rock”, 77 kg in all. Scott dropped a hammer and a feather together. Worden mapped the surface from orbit."],
+                    ["Saturn V SA-510, LM-10 “Falcon”, CSM-112 “Endeavour”. One of three parachutes failed on return but the capsule landed safely."],
+                    ["One of Apollo’s most productive science missions, though later marked by a controversy over unauthorized postal covers."]
+                ],
+                [
+                    ["Crew: John Young, Charlie Duke and Ken Mattingly. Launched 16 April 1972, 11 days 1 hour. Goal: the Descartes Highlands."],
+                    ["A backup yaw control problem delayed landing by about six hours. Three moonwalks of about 20 hours, about 27 km by rover and about 95 kg of samples showed the highlands were not volcanic. Mattingly made a deep-space spacewalk to retrieve film."],
+                    ["Saturn V SA-511, LM-11 “Orion”, CSM-113 “Casper”."],
+                    ["It improved our understanding of the Moon’s early history."]
+                ],
+                [
+                    ["Crew: Gene Cernan, Harrison “Jack” Schmitt (geologist) and Ron Evans. Launched 7 December 1972, the only night launch of Apollo, 12 days 14 hours. Goal: the Taurus-Littrow valley."],
+                    ["The crew photographed the “Blue Marble” on the way out. After landing on 11 December, three moonwalks of about 22 hours covered about 35 km by rover. Schmitt found orange soil of volcanic glass. About 110 kg of samples, the largest collection. Cernan was the last to leave the surface on 14 December."],
+                    ["Saturn V SA-512, LM-12 “Challenger”, CSM-114 “America”."],
+                    ["It ended the Apollo lunar programme; no one has gone beyond low Earth orbit since."]
+                ]
+            ],
+            "additional": [
+                [
+                    "The launch vehicle was designated AS-204. At the request of the crew’s families, NASA officially named the flight “Apollo 1”; the numbers 2 and 3 were never used for crewed flights.",
+                    "The review board was chaired by Floyd Thompson, director of NASA Langley, and reported in April 1967."
+                ],
+                [
+                    "The first launch from Complex 39A. The noise and shaking were felt in the press area miles away.",
+                    "Its Saturn V stages and the S-IVB restart in orbit were the key tests before any crew flew on the rocket."
+                ],
+                [
+                    "The AS-204 rocket originally intended for Apollo 1 was used to launch LM-1, from Pad 37B.",
+                    "LM-1 was a test-only Lunar Module without landing legs."
+                ],
+                [
+                    "Pieces of the spacecraft adapter panels shed during ascent, in addition to the engine problems.",
+                    "Flight lasted about 10 hours. It was the last uncrewed Apollo test."
+                ],
+                [
+                    "The last flight from Pad 34, the pad of the Apollo 1 fire. The crew later received a special Emmy for their TV broadcasts.",
+                    "Tension with mission control over the crew’s colds and their refusal of some tasks, especially before reentry, is well documented in later accounts."
+                ],
+                [
+                    "The decision to send Apollo 8 to the Moon was made only about four months before launch. The crew was named Time’s “Men of the Year” for 1968.",
+                    "Anders took the Earthrise photograph during the fourth orbit, on color film."
+                ],
+                [
+                    "The call signs “Spider” (Lunar Module) and “Gumdrop” (command module) came from the shapes of the two craft.",
+                    "Schweickart’s spacewalk was kept short after he had suffered space sickness earlier in the flight."
+                ],
+                [
+                    "“Snoopy” and “Charlie Brown” were named after Peanuts characters. It was the first live color TV from a spacecraft.",
+                    "Its Lunar Module was fuelled so it could not land. The brief spin came from switches left in the wrong position."
+                ],
+                [
+                    "Collins orbited alone in Columbia while the others were on the surface. The crew left a laser reflector, still used for Earth–Moon ranging, and a plaque.",
+                    "Aldrin later reported that the exhaust of Eagle’s ascent engine knocked over the flag they had planted."
+                ],
+                [
+                    "The first full ALSEP science station on the Moon, powered by a radioisotope generator. The crew also took Surveyor 3’s TV camera home for study.",
+                    "Conrad’s first words on the surface joked that the step had been a small one for Neil but a long one for him."
+                ],
+                [
+                    "Mattingly was grounded days before launch after exposure to German measles; Swigert took his place.",
+                    "Apollo 13 holds the record for the greatest distance from Earth reached by humans, about 400,000 km. The Lunar Module, built for two people for two days, kept three alive for four."
+                ],
+                [
+                    "Shepard, the first American in space, was 47, the oldest person to walk on the Moon. The crew used the Modular Equipment Transporter handcart.",
+                    "Roosa carried hundreds of tree seeds that were later planted on Earth as “Moon trees”."
+                ],
+                [
+                    "The first mission to carry the Lunar Roving Vehicle, and the first to release a subsatellite into lunar orbit. Worden made the first deep-space spacewalk on the way home.",
+                    "The crew left the “Fallen Astronaut” statuette and a plaque. Several astronauts were reprimanded over the postal covers."
+                ],
+                [
+                    "Duke left a family photograph on the surface. The mission also used the first Moon-based ultraviolet camera and spectrograph.",
+                    "Young and Duke drove the rover at a record speed of about 17 km/h downhill, an unofficial “Grand Prix”."
+                ],
+                [
+                    "Cernan and Schmitt landed at Taurus-Littrow with the “Challenger” module; Evans stayed in orbit and made a deep-space spacewalk.",
+                    "Cernan’s last words from the surface spoke of returning “with peace and hope for all mankind”. The “Blue Marble” photograph was taken on this mission."
+                ]
+            ]
+        },
+        "ranger": {
+            "index": [
+                ["Ranger 1", "23 August 1961 · Block 1 · Atlas Agena B", "test", "A test spacecraft stranded in low Earth orbit, but the first U.S. probe to use a parking orbit before a deep-space mission."],
+                ["Ranger 2", "18 November 1961 · Block 1 · Atlas Agena B", "test", "A second Block 1 test left in low Earth orbit when the Agena failed to restart."],
+                ["Ranger 3", "26 January 1962 · Block 2 · Atlas Agena B", "lost", "The first U.S. attempt to impact the Moon; it flew past, but returned the first interplanetary gamma-ray measurements."],
+                ["Ranger 4", "23 April 1962 · Block 2 · Atlas Agena B", "lost", "The first U.S. spacecraft to reach the Moon, but a computer failure left it dead and it hit the far side."],
+                ["Ranger 5", "18 October 1962 · Block 2 · Atlas Agena B", "lost", "A battery failure killed the spacecraft after about eight hours and it missed the Moon."],
+                ["Ranger 6", "30 January 1964 · Block 3 · Atlas Agena B", "lost", "A flawless flight to an on-target impact, but the TV cameras were dead."],
+                ["Ranger 7", "28 July 1964 · Block 3 · Atlas Agena B", "land", "The first fully successful Ranger, sending back thousands of close-up Moon pictures before impact."],
+                ["Ranger 8", "17 February 1965 · Block 3 · Atlas Agena B", "land", "A second complete success: over 7,000 images, ending near the future Apollo 11 landing area."],
+                ["Ranger 9", "21 March 1965 · Block 3 · Atlas Agena B", "land", "The final Ranger, aiming cameras along its path into Alphonsus crater, with images shown live on TV."]
+            ],
+            "explanations": [
+                [
+                    ["Spacecraft P-32, Block 1, launched 23 August 1961 at 10:04 UT by an Atlas Agena B from Cape Canaveral, Launch Complex 12. Managed by NASA/JPL.", "Goal: test the new technologies planned for later Rangers and study particles and fields in interplanetary space from a highly elliptical Earth orbit reaching beyond the Moon (intended 37,300 × 684,000 miles)."],
+                    ["The Agena B upper stage shut down almost immediately after ignition instead of burning for about 90 s, so the probe stayed in a low orbit of about 311 × 104 miles.", "On 27 August telemetry stopped when the main battery died. It reentered on 30 August."],
+                    ["Mass 306.18 kg. Tubular body on a hexagonal base; solar cells plus a silver-zinc battery. Launch vehicle: Atlas Agena B no. 1 (Atlas D no. 111, Agena B no. 6001).", "Eight instruments: electrostatic analyzer, particle detectors, rubidium vapor magnetometer, cosmic-ray telescope and ionization chamber, X-ray detectors, micrometeoroid dust detectors and a Lyman-alpha telescope.", "Cause of failure: a malfunctioning switch had prematurely choked the flow of red fuming nitric acid to the Agena engine."],
+                    ["Unsuccessful, but it tested the parking-orbit approach. Together with Ranger 2, it left lessons about the early launch vehicle and spacecraft stabilization."]
+                ],
+                [
+                    ["Spacecraft P-33, launched 18 November 1961 at 08:12 UT from Complex 12, Atlas Agena B no. 2.", "Goal: test new technologies and study the space environment over about five months in a highly elliptical Earth orbit."],
+                    ["Like Ranger 1, it never left low Earth orbit because the Agena B stage failed to fire again.", "It lost its solar orientation, then power, and reentered on 19 November 1961, the day after launch."],
+                    ["Mass 306.18 kg; same eight-instrument package as Ranger 1. Block 1 craft carried no rocket engine, so they could not change their trajectory. Launch vehicle: Atlas Agena B no. 2 (Atlas D no. 117, Agena B no. 6002).", "Most probable cause: the roll-control gyroscope on the Agena guidance system misbehaved, the stage used up its attitude-control propellant on the first burn, and the engine did not fire for the second."],
+                    ["Unsuccessful. Block 1 ended without testing the spacecraft in deep space."]
+                ],
+                [
+                    ["Spacecraft P-34, Block 2, launched 26 January 1962 at 20:30 UT, Atlas Agena B no. 3.", "Goal: image the Moon during descent and rough-land a seismometer capsule."],
+                    ["A fault in the Atlas guidance system (faulty transistors) put the probe on a lunar transfer path with excessive velocity.", "A later, incorrect course change meant it reached the Moon about 14 h early and missed it by about 22,860 miles on 28 January 1962.", "The central computer and sequencer failed, so no TV images came back. It ended in heliocentric orbit."],
+                    ["Mass 330 kg. Instruments: vidicon TV camera, gamma-ray spectrometer, radar altimeter, single-axis seismometer. Launch vehicle: Atlas Agena B no. 3 (Atlas D no. 121, Agena B no. 6003).", "A 42.6 kg capsule in a balsa-wood shell was to separate at about 21 km altitude and bounce to rest on the surface, slowed by a rocket motor. The camera was to image down to about 24 km."],
+                    ["Unsuccessful for the lunar goal, but it provided the first measurements of interplanetary gamma-ray flux."]
+                ],
+                [
+                    ["Spacecraft P-35, Block 2, launched 23 April 1962 at 20:50 UT, Atlas Agena B no. 4.", "Goal: transmit pictures in the last ten minutes of descent and drop a 65 cm balsa-wood capsule carrying a seismometer."],
+                    ["A power failure in the central computer and sequencer stopped the master clock, so the craft could not carry out planned operations such as opening its solar panels.", "With no course corrections it struck the lunar far side at about 6,000 mph at 12:49:53 UT on 26 April 1962 (15.5° S, 229.3° E)."],
+                    ["Mass 331.12 kg (730 lb). Instruments: vidicon TV camera, gamma-ray spectrometer, radar altimeter, single-axis seismometer. Launch vehicle: Atlas Agena B no. 4 (Atlas D no. 133, Agena B no. 6004)."],
+                    ["The primary objective was not achieved, but the Atlas Agena and Ranger combination performed without fault for the first time."]
+                ],
+                [
+                    ["Spacecraft P-36, Block 2, launched 18 October 1962 at 16:59 UT, Atlas Agena B no. 7.", "Goal: the third U.S. attempt to impact the Moon with a Block 2 Ranger."],
+                    ["After 15 minutes of normal operation, a malfunction switched the craft from solar to battery power and normal operation never resumed; the batteries ran out after about 8 hours.", "The first course correction was never made. On 21 October 1962 it passed the Moon at about 450 miles and entered heliocentric orbit. About four hours of gamma-ray data came back before signal loss."],
+                    ["Mass 342.46 kg (755 lb). Instruments: imaging system, gamma-ray spectrometer, single-axis seismometer, surface-scanning pulse radio experiment. Launch vehicle: Atlas Agena B no. 7 (Atlas D no. 215, Agena B no. 6005)."],
+                    ["Unsuccessful. With Ranger 3 and 4, Block 2 returned no significant science."]
+                ],
+                [
+                    ["Spacecraft P-53 / Ranger-A, the first Block 3 craft, launched 30 January 1964 at 15:49:09 UT, Atlas Agena B no. 8.", "Goal: photograph the Moon from about 1,450 km down to about 7 km in support of Apollo, then impact."],
+                    ["The spacecraft flew to the Moon successfully and impacted on schedule at 09:24:32 UT on 2 February 1964, at 9°24′ N, 21°30′ E.", "The power supply of the TV package had short-circuited during Atlas booster separation, leaving the cameras inoperable."],
+                    ["Mass 364.69 kg (804 lb). Six TV cameras (two full-scan, four partial-scan, up to 300 pictures a minute) in a 173 kg unit that replaced the Block 2 capsule. Launch vehicle: Atlas Agena B no. 8 (Atlas D no. 199, Agena B no. 6008).", "Block 3 bus (Rangers 6–9): hexagonal aluminum base 1.5 m across with a conical tower holding the cameras; 3.6 m tall; two solar wings spanning 4.6 m with 9,792 cells producing about 200 W. Midcourse corrections used a 224 N hydrazine engine; attitude control used 12 nitrogen jets, three gyros and Sun and Earth sensors.", "Each camera chain had its own 1,200 Wh batteries (about 9 hours) and a 60 W transmitter. The spacecraft was sterilized to avoid contaminating the Moon."],
+                    ["Unsuccessful for imaging, though it was the closest to success so far and proved the vehicle could reach the target."]
+                ],
+                [
+                    ["Spacecraft P-54 / Ranger-B, Block 3, launched 28 July 1964 at 16:50:07 UT. Mass 365.6 kg (806 lb), managed by NASA/JPL.", "Goal: photograph its way down to a lunar plain and help pick Apollo landing sites. NASA calls it the first success after 13 failures in a row for these early U.S. lunar missions."],
+                    ["In its final 17 minutes it returned 4,316 images from six cameras. The last was taken 2.3 seconds before impact at 13:25:49 UT on 31 July 1964, with a resolution of about half a meter.", "Impact site: Mare Cognitum, south of the crater Copernicus. A short midcourse correction on 29 July ensured impact in the Sea of Clouds rather than a miss toward the far side."],
+                    ["Six-camera TV system, redesigned after Ranger 6’s failure: two camera chains, F (wide-angle A, narrow-angle B) and P (four cameras), each with its own power, timers and transmitter, so one failure would not silence both. Launch vehicle: Atlas 250D with Agena B 6009, per Wikipedia.", "The first image was taken at 13:08:45 UT from about 2,110 km up. Flight time about 68.6 h; impact speed about 2.6 km/s."],
+                    ["The images showed that impact craters dominate the surface even in smooth-looking plains, down to about 50 cm. Bright rays from Copernicus turned out to be chains of small craters and debris. Scientists concluded that an Apollo landing in the mare regions was feasible."]
+                ],
+                [
+                    ["Ranger-C, Block 3, launched 17 February 1965 at 17:05 UT, Atlas Agena B no. 13. Mass 366.87 kg (809 lb).", "Goal: photograph and then impact the Moon, with emphasis on a possible future crewed landing area."],
+                    ["It returned 7,137 high-resolution photographs before impact at 09:57:37 UT on 20 February 1965 (2°43′ N, 24°38′ E). Cameras were switched on about eight minutes earlier than on Ranger 7, to get views comparable to Earth-based telescopes for calibration.", "Controllers tried to align the cameras along the velocity vector to reduce smear but dropped it to cover more area. A spurious loss of telemetry during the 18 February course correction caused concern, though the mission was completed."],
+                    ["Six-camera TV system; no other instruments. Same Block 3 bus and two-channel camera system as Rangers 6, 7 and 9. Launch vehicle: Atlas Agena B no. 13 (Atlas D no. 196, Agena B no. 6006)."],
+                    ["Impact came about 24 km from the aim point in the Sea of Tranquility, where Apollo 11 landed 4½ years later. It covered a wider area than Ranger 7 and reinforced its conclusions."]
+                ],
+                [
+                    ["Ranger-D, Block 3, launched 21 March 1965 at 21:37:02 UT, Atlas Agena B no. 14. Mass 366.87 kg (809 lb).", "Goal: Rangers 7 and 8 had covered the mare regions, so Ranger 9 targeted Alphonsus, a 75-mile-diameter highland crater and possible site of recent volcanic activity."],
+                    ["23 March: a course correction (a 31-second burn) put it on a direct path to the target. About 20 minutes before impact it began taking 5,814 pictures from about 2,100 km altitude.", "It crashed at 14:08:20 UT on 24 March 1965 (12.83° S, 357.63° E) at about 2.7 km/s, about 7 km from its target."],
+                    ["Six-camera TV system, pointed in the direction of travel, unlike its predecessors. Pictures were converted for live viewing on commercial TV; best resolution about 25–30 cm just before impact. Launch vehicle: Atlas Agena B no. 14 (Atlas 204D, Agena B 6007).", "Flight profile: parking orbit at 185 km, a 90-second Agena burn toward the Moon, then separation. About 70 minutes after launch the solar panels deployed and the high-gain antenna was selected."],
+                    ["The images, taken in very low-angle sunlight, strongly confirmed the crater-on-crater, gently rolling surface. With Ranger 7 and 8 they greatly advanced lunar science and set the stage for closer looks."]
+                ]
+            ],
+            "additional": [
+                [
+                    "Spacecraft in these early orbits could not stabilize themselves, collect solar power or survive for long; three-axis stabilization, on-board propulsion and closed-loop tracking were among the unproven technologies Ranger was meant to try.",
+                    "The Ranger 1 and 2 design was reused in 1962 for the Mariner 1 and 2 Venus probes.",
+                    "Critics later pointed to a 1961 ground test in which Ranger 1 deployed its solar panels as a sign of weak prelaunch testing (Wikipedia, Ranger 7 article)."
+                ],
+                [
+                    "The whole flight lasted about a day. Planners had expected about five months of operation, so the loss was larger than the short flight suggests."
+                ],
+                [
+                    "NASA’s overview says Block 2 as a whole produced no significant science.",
+                    "Closest approach: about 36,800 km from the Moon. The probe has orbited the Sun ever since.",
+                    "Both the launch vehicle and the spacecraft had problems on this flight, unlike Ranger 4, which had a perfect launch."
+                ],
+                [
+                    "Impact speed was about 9,600 km/h on the far side, out of sight from Earth. The program overview describes the team tracking the seismometer capsule to impact just out of sight; treat that detail as a source discrepancy.",
+                    "Block 2 showed the Atlas/Agena B and the spacecraft design could each work, but never on the same attempt."
+                ],
+                [
+                    "It was tracked to about 1.27 million km from Earth in heliocentric orbit.",
+                    "Wikipedia’s Ranger 6 article says the Ranger 5 failure forced a wholesale review of the program, and that plans for Rangers beyond Ranger 9 were cancelled, leaving Rangers 6–9 as stripped-down camera missions."
+                ],
+                [
+                    "This was the fourth American attempt to intentionally crash a spacecraft on the Moon.",
+                    "A review board found the camera power supply had switched on during ascent after an electrical short. JPL physicist Alexander Bratenahl traced it to propellant vented at Atlas booster jettison, ignited by the sustainer exhaust (Wikipedia, Ranger 7 article).",
+                    "The board also found less redundancy than JPL had claimed and inadequate prelaunch testing. For Ranger 7, full-power tests were moved off the launch pad. The early record fed congressional scrutiny of JPL."
+                ],
+                [
+                    "The image count differs between NASA pages: 4,316 (current mission page), 4,308 (older pages). Check the mission report for an exact figure.",
+                    "The first countdown on 27 July was scrubbed (a defective Atlas battery and a ground guidance problem). Liftoff came on 28 July and the Agena restarted about 30 min later.",
+                    "Gerard Kuiper judged from the pictures that at least some of the Moon was smooth enough to land on, though only a soft landing could prove how firm the surface was.",
+                    "Mission control reportedly celebrated, and the NASA tradition of opening peanuts in control rooms is credited to this mission. Reported impact coordinates vary by source, from about 10.63° S, 20.68° W to 10.35° S, 20.58° W."
+                ],
+                [
+                    "The Wikipedia program article puts the impact point about 70 km from where Apollo 11 later landed. NASA’s mission page instead gives the 24 km miss from Ranger 8’s own aim point.",
+                    "At 7,137 pictures, Ranger 8 returned more than either Ranger 7 (4,316) or Ranger 9 (5,814)."
+                ],
+                [
+                    "Ranger started with troubled flights that taught engineers a great deal and scientists very little, then ended with three successes.",
+                    "Many images, mostly from camera B, were broadcast live on U.S. networks to millions of viewers. Flight time was about 64.5 hours.",
+                    "The first-image altitude differs by source: about 2,100 km on NASA’s mission page, 2,363 km in NSSDC data quoted by Wikipedia."
+                ]
+            ]
+        },
+        "surveyor": {
+            "index": [
+                ["Surveyor 1", "30 May 1966 · Surveyor-A · Atlas Centaur AC-10", "land", "The first true soft landing on the Moon, achieved on the very first try, which proved the Surveyor design and landing technique."],
+                ["Surveyor 2", "20 September 1966 · Surveyor-B · Atlas Centaur AC-7", "lost", "A thruster failed to ignite on the way to the Moon, and the lander spun out of control and crashed."],
+                ["Surveyor 3", "17 April 1967 · Surveyor-C · Atlas Centaur AC-12", "land", "It dug trenches in the lunar soil and showed the surface could support an Apollo lander. Apollo 12 later visited it, the only surface rendezvous of its kind."],
+                ["Surveyor 4", "14 July 1967 · Surveyor-D · Atlas Centaur AC-11", "lost", "The mission looked successful all the way down, until contact was lost minutes before landing."],
+                ["Surveyor 5", "8 September 1967 · Surveyor-E · Atlas Centaur AC-13", "land", "It did the first chemical soil analysis on the Moon, or on any other world, despite a near-fatal leak."],
+                ["Surveyor 6", "7 November 1967 · Surveyor-F · Atlas Centaur AC-14", "land", "It became the first spacecraft to lift off from the surface of another world."],
+                ["Surveyor 7", "7 January 1968 · Surveyor-G · Atlas Centaur AC-15", "land", "The last Surveyor, a pure science mission and the only one to land in the lunar highlands."]
+            ],
+            "explanations": [
+                [
+                    ["Hughes Aircraft Company was picked in January 1961 to build a series of soft-landing vehicles under the technical direction of JPL. Each was designed at about 340 kg, to land gently, analyse the lunar surface and subsurface, and relay TV pictures. Launches were first planned for 1963–1966.", "Unlike the Soviet Luna landers, Surveyor was a true soft-lander, with three steerable rocket engines controlled by a four-beam radar.", "The program was also an engineering test of the Atlas/Centaur launcher and of ground-directed spacecraft operations. Rangers, by contrast, ran a fixed computer sequence and crashed on purpose.", "Development was delayed repeatedly, largely by the Centaur booster, before this first flight."],
+                    ["30 May 1966: launch from Cape Canaveral.", "2 June: soft landing at 06:17:36 UT, 63.6 hours after launch. Touchdown was in the southwest Ocean of Storms, about 14 km from the planned target.", "The first image showed the lander’s own foot planted on the soil, proof that landing was possible. Detail down to about 2 mm could be seen at closest range.", "Initial panoramas showed the craft resting in a crater about 100 km across, with boulders over 1 m scattered around and low mountain crest lines on the horizon.", "The camera sent 11,240 images in two communication sessions through 6 July. Mosaics built from them showed nearly the whole landing region out to the horizon.", "Primary mission ended 14 July. The spacecraft survived many lunar day/night cycles and kept responding until 7 January 1967."],
+                    ["Spacecraft Surveyor-A, 995.2 kg at launch and 294.3 kg at landing. Atlas Centaur AC-10 (Atlas D no. 290 / Centaur D), Launch Complex 36A, 14:41:01 UT.", "About 3 m tall, with a 27 kg thin-walled aluminium triangular frame and a leg at each corner. A large solid retro-rocket in the centre made up over 60% of the total mass.", "A Doppler velocity-sensing system fed the computer for a controlled descent. Each landing pad had an aircraft-type shock absorber and strain gauges to record landing loads, which mattered for Apollo.", "Instrument: TV camera. It also returned data on soil bearing strength, radar reflectivity and temperature."],
+                    ["It proved the spacecraft design and the landing technique, and NASA considered the mission a complete success. It was among the great successes of the early lunar program."]
+                ],
+                [
+                    ["Similar in design to Surveyor 1, and aimed at a soft landing in Sinus Medii.", "The second launch in the series, flown on an Atlas Centaur from Launch Complex 36A. Its instrument was an imaging system."],
+                    ["20 September 1966: launch at 12:32:00 UT.", "21 September, 05:00 UT: one of the three thrusters failed to ignite for a planned 9.8 s course correction, which put the spacecraft into an unwanted spin.", "Controllers tried up to 39 times to fire the thruster, without success, so Surveyor 2 continued to the Moon without proper control.", "22 September, 09:34 UT: retro-fire ignition. Communications ceased just 30 seconds later.", "The spacecraft crashed just southeast of Copernicus crater, near 5°30′ N, 12° W."],
+                    ["Spacecraft Surveyor-B, 995.2 kg. Atlas Centaur AC-7 (Atlas D no. 194 / Centaur D), Launch Complex 36A. Instrument: imaging system."],
+                    ["Unsuccessful. The lander never reached the surface intact and returned no lunar data. The program still went on to five successful landings overall."]
+                ],
+                [
+                    ["The third engineering flight of the series, and the first with a surface-sampling instrument. The arm could reach up to about 1.5 m from the lander and dig up to 18 cm deep.", "It was also the first Surveyor to start from an Earth parking orbit, using a Centaur upper stage that could now fire more than once.", "The aim was to learn about the soil’s strength and consistency in support of Apollo planning."],
+                    ["17 April 1967: launch.", "20 April: during descent, highly reflective rocks confused the descent radar and the main engine failed to cut off at the right moment, at about 4.3 m altitude. Surveyor 3 bounced twice, first to about 10 m and then to about 3 m, before settling at 00:04:17 UT in southeastern Oceanus Procellarum.", "Less than an hour after landing it began transmitting the first of 6,326 TV pictures of its surroundings.", "The sampler dug four trenches and performed four bearing tests and thirteen impact tests, handling lunar material in view of the camera.", "The soil had a consistency similar to wet sand.", "Last contact was 4 May 1967, two days after lunar night began.", "On 18 November 1969, Apollo 12 astronauts Charles Conrad Jr. and Alan Bean landed the Intrepid lunar module about 180 m from the inactive lander. On their second moonwalk they photographed the site and recovered parts, including the soil scoop and the camera system. These parts let scientists evaluate nearly 2.5 years of exposure to the lunar environment, including the unimpeded solar wind."],
+                    ["Spacecraft Surveyor-C, 997.9 kg. Atlas Centaur AC-12 (Atlas D no. 292 / Centaur D), Launch Complex 36B, 07:05:01 UT.", "Instruments: TV camera and surface sampler. The camera had 25 mm and 100 mm lenses and was mounted under a mirror that moved horizontally and vertically. A 200-line picture took about 20 seconds to transmit, and it could also send 600-line images by digital transmission."],
+                    ["The lunar soil had a bearing strength of about 10 psi, solid enough to support an Apollo Lunar Module. The mission also gave Apollo-era scientists exposed hardware to study."]
+                ],
+                [
+                    ["Like Surveyor 3, it was equipped with a surface claw containing a magnet to detect and measure iron-bearing material in the lunar surface.", "Target: Sinus Medii (Central Bay), at 0.4° N, 1.33° W."],
+                    ["14 July 1967: launch at 11:53:29 UT.", "The flight appeared successful until all communications were abruptly lost, about two seconds before retro-rocket cutoff, at 02:03 UT on 17 July. That was roughly two and a half minutes before landing.", "Contact was never re-established.", "NASA believed the solid-propellant retro-rocket might have exploded and destroyed the vehicle."],
+                    ["Spacecraft Surveyor-D, 1,037.4 kg, the heaviest of the series so far. Atlas Centaur AC-11 (Atlas D no. 291 / Centaur D), Launch Complex 36A.", "Instruments: TV camera and surface sampler (the claw with magnet)."],
+                    ["Unsuccessful. The cause was never confirmed, and no surface data were returned."]
+                ],
+                [
+                    ["Similar to its predecessor, but the surface sampler was replaced by an alpha-backscatter instrument that measures the relative abundance of chemical elements in lunar material.", "A small bar magnet on one footpad was meant to show whether the lunar soil had magnetic properties."],
+                    ["8 September 1967: launch.", "A near-fatal helium leak in a pressure regulator threatened the mission. Engineers from JPL and Hughes, the prime contractor, managed to land the spacecraft safely anyway.", "11 September, 00:46:42 UT: landing in southeastern Mare Tranquillitatis. The leak put it about 29 km from its target, on an angled incline within the slope of a rimless crater.", "It returned 18,006 photos before lunar night on 24 September. Controllers commanded about 1,000 more during the second lunar day (15–24 October) and the fourth in December, for 20,018 pictures in total.", "13 September: controllers fired the main engine for 0.55 s to test the effects of disturbing the surface. No new craters formed and there was no significant dust cloud.", "The alpha-scattering instrument showed the soil was more than half oxygen, with various amounts of silicon and aluminium.", "Contact was lost on 16 December 1967."],
+                    ["Spacecraft Surveyor-E, 1,006 kg. Atlas Centaur AC-13 (Atlas 3C no. 5901C / Centaur D-1A), Launch Complex 36B, 07:57:01 UT.", "Instruments: TV camera, alpha-scattering instrument and footpad magnet. Landing at 1.42° N, 23.20° E."],
+                    ["The most successful of the series so far. Its instrument found basalt and established some history of lunar melting, which suggested the surface was conducive to human exploration."]
+                ],
+                [
+                    ["It carried the same kind of payload as Surveyor 5: TV camera, alpha-scattering instrument and footpad magnets.", "Target: Sinus Medii, as for Surveyor 4. It was part of the highly successful run of landers sent to study whether a future human mission was possible."],
+                    ["7 November 1967: launch.", "10 November, 01:01:04 UT: safe landing in Sinus Medii. Announced coordinates were 0.46° N, 1.37° W, though NASA says probably 0.473° N, 1.427° W.", "It returned 29,952 images in under two weeks, plus about 30 hours of alpha-scattering data on the chemical composition of the surface.", "17 November: controllers fired its three main liquid-propellant thrusters for 2.5 seconds. The lander rose about 3 m and came down about 2.5 m west of its original spot.", "Cameras then studied the original footprints to determine the soil’s mechanical properties, and took stereo images now that the viewpoint had moved.", "It also photographed the footpad magnet, which let investigators estimate the concentration of magnetic material on the surface.", "Lunar night began 24 November and the craft was put into hibernation on 26 November. Controllers briefly regained contact on 14 December, by which time primary operations had ended."],
+                    ["Spacecraft Surveyor-F, 1,008.3 kg. Atlas Centaur AC-14 (Atlas 3C no. 5902C / Centaur D-1A), Launch Complex 36B, 07:39:01 UT.", "Instruments: TV camera, alpha-scattering instrument and footpad magnets."],
+                    ["A highly successful lander, with nearly 30,000 images. The hop was a first: the first liftoff from the Moon and from any celestial body."]
+                ],
+                [
+                    ["Surveyors 1, 3, 5 and 6 had already met Apollo’s requirements, so NASA used the last spacecraft for science away from any potential early Apollo landing site.", "It had the most extensive set of instruments of the series.", "The program had originally been planned as seven spacecraft. Three more (Surveyors H, I and J) were added in 1963 and then cancelled in December 1966, after the Ranger, Lunar Orbiter and earlier Surveyor results."],
+                    ["7 January 1968: launch, followed by an uneventful coast that included one of two planned course corrections.", "10 January, 01:05:36.3 UT: landing on the ejecta blanket from the bright crater Tycho, in the south of the nearside, at 40.97° S, 11.44° W. It was about 29 km north of Tycho’s rim and 2.4 km from its target.", "The first photos showed surprisingly few craters, much like the mare sites, though the area was rougher overall.", "About 21 hours after landing, controllers fired pyrotechnic charges to drop the alpha-scattering instrument onto the surface. When it stopped partway, they used the surface sampler (robot arm) to force it down.", "The arm then picked the instrument up and moved it to two more locations. About 66 hours of data came from three samples in the first lunar day: undisturbed surface, a Moon rock and an area dug by the sampler. A further 34 hours came in the second lunar day.", "The scoop was used many times to pick up soil and dig trenches, and for at least 16 surface-bearing tests.", "Earth-based lasers also used the spacecraft as a target to measure the Earth-Moon distance accurately.", "Communications paused at 14:12 UT on 26 January, about 80 hours after sunset. Second-day operations ran from 19:01 UT on 12 February to 00:24 UT on 21 February, which effectively ended the mission."],
+                    ["Spacecraft Surveyor-G, 1,040.1 kg, the heaviest of the series. Atlas Centaur AC-15 (Atlas 3C no. 5903C / Centaur D-1A), Launch Complex 36A, 06:30:00 UT.", "Instruments: TV camera, alpha-scattering instrument, surface sampler, footpad magnets, and stereoscopic and dust-detection mirrors."],
+                    ["The five successful Surveyors returned more than 87,000 photos and worked about 17 months in total on the surface. Most importantly, they showed that a spacecraft could soft-land on the Moon."]
+                ]
+            ],
+            "additional": [
+                [
+                    "Landing coordinates 2.46° S, 43.32° W. The overview page names the landing region as Flamsteed, in Oceanus Procellarum.",
+                    "“Firsts” listed by NASA: first soft landing on the Moon."
+                ],
+                [
+                    "Sources disagree on the crash date. The Key Dates box says 23 September, but the text gives 22 September (09:34 UT)."
+                ],
+                [
+                    "Landing coordinates 3° S, 23.41° W.",
+                    "Sources disagree on two points. NASA gives the bearing strength as about 0.7 kg/cm² and 98 kPa, but 10 psi is nearer 69 kPa. The Apollo 12 dates also differ: the mission page gives landing on 18 November and the walk to Surveyor 3 on 19 November, while the overview caption says 20 November."
+                ],
+                [
+                    "Sources disagree on the timing of the loss. The overview page says the signal was lost 2.5 minutes after impact, but the mission page says 2.5 minutes before landing. I followed the mission page, which matches its own description of a loss “a few minutes before touchdown”."
+                ],
+                [
+                    "The summary box says the photos came “over three days”, but the mission text spreads them over several lunar days."
+                ],
+                [],
+                [
+                    "Sources disagree on the photo count. NASA gives 21,274 photos, but the breakdown of 20,993 on the first lunar day and 45 on the second adds up to 21,038."
+                ]
+            ]
+        },
+        "artemis": {
+            "index": [
+                ["Artemis I", "16 November 2022 · Uncrewed · SLS Block 1", "test", "The first flight of the SLS rocket and Orion, an uncrewed 25-day mission to a distant retrograde lunar orbit."],
+                ["Artemis II", "1 April 2026 · Wiseman, Glover, Koch, Hansen", "orbit", "Four astronauts flew around the Moon and beyond Apollo 13’s distance record, the first crewed flight past low Earth orbit since 1972."],
+                ["Artemis III", "Planned (2027/2028) · Bresnik, Parmitano, Rubio, Douglas", "test", "A crewed Earth-orbit test where Orion will dock with prototype lunar landers from Blue Origin and SpaceX."],
+                ["Artemis IV", "Planned (Early 2028) · Crew TBA", "land", "The planned first crewed Moon landing of the Artemis programme, 56 years after Apollo 17."],
+                ["Artemis V", "Planned (Late 2028) · Crew TBA", "land", "The second planned lunar landing, which is meant to start building a permanent Moon base."]
+            ],
+            "explanations": [
+                [
+                    ["Crew: none. Three instrumented mannequins flew: “Commander Moonikin Campos”, and the radiation phantoms “Helga” and “Zohar”.", "Goal: certify SLS and Orion for crew, above all Orion’s heat shield at lunar-return speed.", "Planned as EM-1 for 2017 (originally 2016). It slipped repeatedly because of hardware and testing problems."],
+                    ["Launch scrubs: 29 August 2022 (a faulty engine 3 temperature reading) and 3 September (a hydrogen leak). Hurricane Ian and then Nicole caused more delays.", "16 November 2022, 06:47:44 UT: launch from Launch Complex 39B, the first launch from the pad since Ares I-X. About 89 minutes later the ICPS burned for about 18 minutes for trans-lunar injection. Ten CubeSats were then deployed.", "21 November, 12:57 UT: closest lunar approach, about 130 km. 25 November: entry into distant retrograde orbit. On 26 November Orion passed Apollo 13’s record for the farthest Earth-returning human-rated spacecraft (400,171 km). The maximum distance from Earth was 432,210 km.", "1 December: departure burn. 5 December, 16:43 UT: second flyby at 128 km.", "11 December, 17:40:30 UT: splashdown in the Pacific near Guadalupe Island after a “skip” reentry at about 40,000 km/h. USS Portland recovered Orion."],
+                    ["SLS Block 1: four RS-25D engines, two five-segment boosters, and an ICPS with one RL10B-2 engine. Orion CM-002 with ESM-1 (Lockheed Martin and Airbus). Duration 25 days 10 h 52 min 46 s. Distance travelled about 2.1 million km."],
+                    ["Successful. Orion survived reentry, but the heat shield lost more char than predicted. NASA traced it to trapped gas in the AVCOAT material (report of 5 December 2024)."]
+                ],
+                [
+                    ["Crew: Reid Wiseman (commander), Victor Glover (pilot), Christina Koch and Jeremy Hansen of the Canadian Space Agency. Backups: Andre Douglas and Jenni Gibbons.", "Goal: validate Orion, its systems and crew procedures before landings. Comparable to Apollo 8 (but without entering lunar orbit) and to Apollo 13’s free-return path.", "Delayed from 2025 by life-support and heat-shield investigations. NASA kept the existing heat shield but flew a steeper reentry. Hydrogen leaks and a helium-flow problem in February 2026 forced a rollback."],
+                    ["1 April 2026, 22:35:12 UT: launch from Launch Complex 39B, the first crewed launch from the pad since 2006. The ICPS raised the orbit, and Orion reached a high Earth orbit with an apogee of about 70,000 km.", "In that orbit Glover flew a 70-minute manual proximity demonstration against the spent ICPS. The crew tested life support, including the toilet, which had a frozen-vent problem.", "2 April: a 5 min 49 s trans-lunar injection burn on the ESM main engine, the only use of that engine.", "6 April: closest approach to the Moon about 6,545 km at 23:00 UT. The 40-minute radio blackout began at 22:46 UT, and they saw a 57-minute eclipse. The distance record was passed at 17:56 UT, with a maximum of 406,771 km.", "11 April, 00:07:27 UT: splashdown southwest of San Diego, recovered by USS John P. Murtha. It was the first Navy recovery of a NASA crew since 1975."],
+                    ["Orion CM-003 “Integrity” with ESM-2. Launch mass 35,000 kg and landing mass 9,300 kg. Same SLS Block 1 launcher, with four RS-25 engines.", "Duration 9 days 1 h 32 min 15 s. Distance travelled 1,126,922 km. Maximum reentry speed about 39,693 km/h."],
+                    ["Successful. It qualified Orion for crew and set a human distance record. Glover became the first person of colour, Koch the first woman and Hansen the first non-American to fly around the Moon."]
+                ],
+                [
+                    ["Crew (named 9 June 2026): Randy Bresnik (commander), Luca Parmitano of ESA (pilot), Frank Rubio and Andre Douglas. Backup: Bob Hines. There are no women on the crew, which NASA’s administrator said drew criticism but that they were “the best astronauts” for the mission.", "Until February 2026 this was the first landing mission. On 27 February 2026 NASA turned it into a risk-reduction flight for Artemis IV, comparable to Apollo 9.", "Low Earth orbit was chosen over high Earth orbit so that the last ICPS could be saved for Artemis IV."],
+                    ["Three launches: a Blue Origin test vehicle (a “Blue Moon Mark 1.5” that can stay up to 90 days), then Orion on SLS from Launch Complex 39B, then a SpaceX Starship v3.", "Orion will reach a circular orbit about 430 km high at 33° inclination, dock with the Blue Origin vehicle for about two days and test suit interfaces with the AxEMU suit, then dock with Starship for about one day. Starship has a docking port but no crew cabin.", "After about two weeks Orion will splash down off San Diego with an upgraded heat shield."],
+                    ["Orion CM-004 with ESM-3. A non-propulsive “spacer” replaces the ICPS. Core stage RS-25 engines E2048, E2052, E2054 and E2057.", "Core stage hardware reached Kennedy in April 2026 and booster segments in June 2026."],
+                    ["Not flown yet. Its results decide which lander NASA uses on Artemis IV."]
+                ],
+                [
+                    ["Crew: not announced. Four astronauts will fly, two of them to the surface.", "Before October 2022 it was to deliver a Gateway module. From October 2022 to February 2026 it was the second landing. Since February 2026 it is the first, and the Gateway was cancelled in March 2026.", "The lander is either SpaceX’s Starship HLS or Blue Origin’s Blue Moon. The choice depends on the Artemis III tests."],
+                    ["The lander launches first. Then SLS launches Orion with four astronauts.", "With Starship, the vehicles dock in low Earth orbit and Starship pushes both to lunar orbit. With Blue Moon, Orion flies to the Moon and docks there.", "Two astronauts descend, do at least two moonwalks and return to Orion, which brings all four home. The programme table gives about 30 days."],
+                    ["Orion CM-005 with ESM-4. Core stage RS-25 engines E2044, E2050, E2051 and E2063. It will be the last mission to use an ICPS.", "An alternative docking orbit is polar and elliptical, with a perilune of 100 km and an apolune of 6,500 km. Orion’s service module cannot leave a low lunar orbit."],
+                    ["Not flown yet. Target is early 2028."]
+                ],
+                [
+                    ["Crew: not announced.", "Originally the third landing, going via the Gateway to install ESA’s ESPRIT module and Canadarm3. It was scheduled for 2030 or later until February 2026.", "Blue Origin’s Blue Moon contract (about US$3.4 billion) is mentioned for this mission."],
+                    ["Late 2028: SLS launches Orion to the Moon. Two astronauts descend to the south pole in the lander, landing near a Lunar Terrain Vehicle, the first unpressurised rover since Apollo 17.", "Surface stay of about one week for science and exploration. The programme table gives about 30 days for the whole mission."],
+                    ["Orion CM-005 with ESM-5. It is the first SLS to use a Centaur V upper stage in place of the ICPS.", "From this mission NASA plans to hand SLS operations to Deep Space Transport LLC (Boeing and Northrop Grumman)."],
+                    ["Not flown yet. Intended to begin yearly landings and the lunar base."]
+                ]
+            ],
+            "additional": [
+                [
+                    "Of the 10 CubeSats, ArgoMoon, BioSentinel and EQUULEUS did their work. Others failed, including NEA Scout, OMOTENASHI and LunaH-Map.",
+                    "The splashdown fell exactly 50 years after the Apollo 17 landing.",
+                    "Sources disagree on distance: the Artemis I page gives 2.1 million km and the programme page more than 2.3 million km."
+                ],
+                [
+                    "Payloads: AVATAR (organ tissue analogue), ARCHER (crew sleep and health monitoring) and the O2O laser link (up to 260 Mbit/s). Four international CubeSats flew, but only SHAMS raised its orbit.",
+                    "A small helium leak in the ESM did not affect safety, but NASA expects a propulsion redesign. The skip reentry was replaced by direct entry.",
+                    "The mission’s zero-gravity indicator was a plush toy named Rise. The crew proposed names for two craters, Integrity and Carroll."
+                ],
+                [
+                    "Both landers are still under development and not yet human-rated.",
+                    "Sources disagree on timing. The infobox says no earlier than June 2027, the programme page says late 2027, and an administrator post cited by Wikipedia says mid-2027. Orion’s internal readiness date was January 2028."
+                ],
+                [
+                    "NASA has said it is aiming for two landings in 2028, Artemis IV and V.",
+                    "The Artemis V page also lists CM-005 for its Orion, so the two pages disagree on one of them."
+                ],
+                [
+                    "The Artemis V page says Blue Moon will fly it, but the infobox lists either lander.",
+                    "The page text still mentions a “crewed demo in 2030” from the old Blue Origin contract, which looks outdated."
+                ]
+            ]
+        },
+        "clps": {
+            "index": [
+                ["Commercial Lunar Payload Services (CLPS)", "2018 – Present · 17 Awarded Deliveries · 13 Eligible Vendors", "land", "NASA’s programme of buying commercial deliveries of science and technology payloads to the Moon, so that robotic landers prepare the way for Artemis."]
+            ],
+            "images": [
+                [
+                    ["./img/clps.jpeg", "Timeline of Past and Future CLPS Deliveries (NASA)"]
+                ]
+            ],
+            "explanations": [
+                [
+                    ["CLPS lets NASA buy lunar delivery as a service from American companies instead of building its own landers. Each task order covers the whole chain: payload integration, mission operations, launch from Earth and landing.", "NASA has said it accepts that some missions will fail, because landing on the Moon is hard, and that lessons learned improve later flights.", "The first nine vendors were selected on 29 November 2018 and five more were added on 18 November 2019. The pool NASA currently describes has 13 eligible companies.", "Contracts are indefinite-delivery, indefinite-quantity, with a combined maximum value of US$2.6 billion through November 2028.", "As of NASA’s home page (updated July 2026), 17 deliveries had been awarded to five vendors, carrying more than 60 NASA instruments. The programme is run from Johnson Space Center."],
+                    ["8 January 2024: Astrobotic’s Peregrine Mission One launched but never reached the Moon after an anomaly, and made a controlled reentry over the South Pacific on 18 January.", "15–22 February 2024: Intuitive Machines IM-1 (lander Odysseus) launched and landed at Malapert A near the south pole with six NASA instruments.", "15 January – 2 March 2025: Firefly’s Blue Ghost Mission 1 launched and landed at Mare Crisium with 10 payloads.", "27 February – 6 March 2025: Intuitive Machines IM-2 (lander Athena) landed at Mons Mouton near the south pole with the PRIME-1 drill and mass spectrometer and a laser retroreflector array.", "Of those four missions, only Blue Ghost 1 was a complete success, and both Intuitive Machines landers fell over on landing.", "Griffin, Blue Moon Mark 1, Blue Ghost 2 and IM-3 were all expected in 2026, but Blue Ghost 2 and IM-3 have slipped into 2027, and Blue Moon Mark 1 was grounded by the New Glenn pad explosion and is not now expected before early 2027.", "Griffin Mission One, now flown by Voyager Technologies (formerly Astrobotic), is listed for no earlier than January 2027 on a Falcon Heavy, aimed at Nobile Crater."],
+                    ["Delivery contract structure: indefinite delivery, indefinite quantity, up to US$2.6 billion until November 2028. Task orders are fixed-price per Wikipedia.", "Landers: Peregrine and Griffin (Astrobotic/Voyager), Nova-C (Intuitive Machines), Blue Ghost (Firefly), Blue Moon Mark 1 (Blue Origin), and the APEX 1.0 lander (Draper with ispace-U.S.).", "From NASA’s July 2025 graphic, planned deliveries by year: 2026 — Blue Moon Mark 1, Griffin Mission One, IM-3; 2027 — Blue Ghost 2, Draper Mission 1; 2028 — IM-4, Blue Ghost 3.", "Destinations NASA names: Reiner Gamma (IM-3), far side (Blue Ghost 2), Mons Mouton near the south pole (IM-4), Gruithuisen Domes (Blue Ghost 3)."],
+                    ["Mixed results so far: one complete success out of four flights, two landers that toppled but worked partly, and one that never reached the Moon. NASA is leaning on CLPS even more for the Moon Base, so the schedule keeps slipping while the planned number of flights grows."]
+                ]
+            ],
+            "additional": [
+                [
+                    "NASA’s home page lists recent Moon Base news: updates on cargo landers, a JPL-tested Voyager lander, rovers and new science investigations (August–October 2026).",
+                    "Per Wikipedia, further awards include Blue Ghost 4 (2029) and Blue Ghost 5 (late 2028), and Blue Moon Pathfinder Mission 2 (late 2027), which helps explain why NASA counts 17 deliveries while the graphic shows 11.",
+                    "Sources disagree on several points: the graphic and the overview timeline put Blue Ghost 2, Draper and IM-4 in different years (the overview says 2026 for Blue Ghost 2 and Draper and 2027 for IM-4, while the graphic says 2027, 2027 and 2028; the overview text is outdated and still mentions a 2024 crew flight).",
+                    "The overview says the pool has 14 vendors (9 plus 5), while the home page says 13 eligible companies.",
+                    "Draper’s destination is the lunar South Pole on the overview page but Schrödinger Basin on the far side on the providers page (dated February 2025).",
+                    "The providers page lists Griffin with the VIPER rover and a 2024 launch, which is outdated.",
+                    "The graphic file is dated July 2025 by its URL, so it predates the 2026 slips above. Order within each year is not exact, as NASA’s footnote says."
+                ]
+            ]
+        }
+    },
+    "mars": {
+        "index": [
+            ["Mars Pathfinder", "4 December 1996 – 27 September 1997 · Lander & Rover · Ares Vallis", "land", "A technology demonstration that landed on Mars with airbags and delivered Sojourner, the first robotic rover on the Martian surface."],
+            ["Mars Exploration Rovers: Spirit and Opportunity", "3 January 2004 – 10 June 2018 · Twin Rovers · Gusev Crater & Meridiani Planum", "land", "Two identical twin rovers that found lasting evidence of water on ancient Mars, with Opportunity running over 14 years against a three-month plan."],
+            ["Viking 1", "20 August 1975 – 11 November 1982 · Orbiter & Lander · Chryse Planitia", "land", "NASA’s first truly successful landing on Mars, with an orbiter and a lander built to look for evidence of life."],
+            ["InSight", "5 May 2018 – 15 December 2022 · Lander · Elysium Planitia", "land", "A lander that listened for marsquakes to take the first full checkup of Mars’ interior."],
+            ["Dawn", "27 September 2007 – 1 November 2018 · Asteroid Belt Orbiter · Vesta & Ceres", "orbit", "The first spacecraft to stay a long time at two different worlds, the asteroid Vesta and the dwarf planet Ceres."],
+            ["NEAR Shoemaker", "17 February 1996 – 28 February 2001 · Asteroid Orbiter & Lander · Asteroid 433 Eros", "land", "The first spacecraft to orbit an asteroid, and the first to land on one."]
+        ],
+        "explanations": [
+            [
+                [
+                    "Pathfinder was originally designed to show how to deliver an instrumented lander and a free-ranging rover to the Red Planet. The aim was to prove a new, safe way of landing and to gather engineering data on the technologies involved.",
+                    "Both the lander and the 10.6 kg rover carried instruments for science and for engineering data. They covered the Martian atmosphere, climate, geology, and the composition of rocks and soil.",
+                    "It entered the atmosphere directly, with a parachute and a cushioning airbag system. It was the first time NASA had used the airbag technique.",
+                    "The landing site, Ares Vallis, is an ancient flood plain in the northern hemisphere and one of the rockiest parts of Mars. It was chosen as a relatively safe surface that also held a wide variety of rocks deposited by a catastrophic flood. Scientists believe that flood moved a volume of water comparable to North America’s Great Lakes in about two weeks."
+                ],
+                [
+                    "4 December 1996: launch on a Delta II 7925 from Cape Canaveral Air Force Station.",
+                    "4 July 1997: landing. The craft hit at about 14 m/s, inside an airbag cluster 5.8 m across, and bounced about 15 times, up to 15 m high. It came to rest 2.5 min later, about 1 km from the first impact. The airbags were inflated about 100 m above the surface, based on an onboard altimeter.",
+                    "The lander was named the Carl Sagan Memorial Station, after the astronomer who had died the year before. Sojourner was named after civil-rights crusader Sojourner Truth.",
+                    "Night of 5 July (sol 2): Sojourner stood up to its full 30 cm height and rolled down the rear ramp, which was tilted 20° from the surface.",
+                    "An “insurance panorama” of eight images was taken before deployment as protection against a camera failure. Later a roughly 100-frame “presidential” panorama of the site was assembled by hand.",
+                    "The rover’s APXS instrument was deployed against rocks to measure their elements.",
+                    "Final data transmission: 27 September 1997. The whole mission returned 2.3 billion bits, including over 16,500 lander images, 550 rover images, more than 15 chemical analyses of rocks and soil, and extensive weather data."
+                ],
+                [
+                    "Mission type: lander plus rover. Launch location: Cape Canaveral Air Force Station, Florida. Landing site: Ares Vallis.",
+                    "Instruments: Alpha Proton X-ray Spectrometer (elemental composition of rocks and soils), three cameras for geology and for documenting technology performance, and the Atmospheric Structure Instrument/Meteorology Package (atmosphere during descent, then weather at the lander).",
+                    "Sojourner: 10.6 kg, about 30 cm tall when standing."
+                ],
+                [
+                    "It showed a new, safe way to land on Mars and delivered the first-ever robotic rover to the surface. Its findings suggest Mars was once warm and wet."
+                ]
+            ],
+            [
+                [
+                    "The mission was to look for signs of past water on Mars. NASA lists seven science objectives, including: finding rocks and soils that hold clues to past water (such as minerals deposited by precipitation, evaporation, sedimentary cementation or hydrothermal activity); mapping the distribution and composition of minerals and rocks around each site; determining which geologic processes shaped the terrain (such as water or wind erosion, sedimentation, volcanism and cratering); providing “ground truth” calibration and validation for orbiter observations; searching for iron-bearing minerals including carbonates; and assessing whether past wet environments were conducive to life.",
+                    "The rovers served the four overarching goals of the Mars Exploration Program and complemented other Mars missions.",
+                    "The sites were on opposite sides of Mars and chosen because they looked affected by liquid water. Spirit went to Gusev Crater, a possible former lake in a giant impact crater. Opportunity went to Meridiani Planum, where mineral deposits suggested a wet history."
+                ],
+                [
+                    "3 January 2004: Spirit landed at Gusev Crater. Its landing platform was named the Columbia Memorial Station. By sol 16 its panoramic camera was imaging the landing area, including a large crater about 250 m northeast and hills about 3 km east.",
+                    "24 January 2004 (25 January UT): Opportunity landed inside Eagle Crater at Meridiani Planum. By sols 58 and 60 it had completed the largest 2004 panorama, 558 images in the “Lion King” mosaic, with Endurance Crater as its next destination.",
+                    "Opportunity’s prime mission was planned for three months. In that period it examined the hematite spherules nicknamed “blueberries” near Fram Crater (April 2004).",
+                    "Spirit later found carbonate-rich rock at “Comanche” (analysis of late-2005 data), 90% pure silica soil at “Home Plate” (March 2007), and evidence of an ancient explosive eruption at Home Plate, its final resting place. Spirit concluded its mission in 2010.",
+                    "Opportunity studied the rim of Endeavour Crater (diameter about 22 km) from August 2011, finding gypsum veins (“Homestake”) and clay minerals. It visited well over 100 craters in 14 years and passed a marathon distance of 42.198 km on 24 March 2015, at sol 3968.",
+                    "Opportunity’s last communication was on 10 June 2018, as a planet-wide dust storm blanketed its solar-powered location."
+                ],
+                [
+                    "Mission type: rover pair, identical twins, solar-powered.",
+                    "Instruments named in NASA’s pages include the panoramic camera (Pancam) and a microscopic imager on the robotic arm.",
+                    "Distances: Spirit 7.7 km. Opportunity 45.16 km.",
+                    "Launch dates, launch vehicle and rover mass are not listed on the source pages."
+                ],
+                [
+                    "By studying the rock record, the rovers confirmed that water long stood on the surface of Mars. That finding helps scientists judge whether Mars could ever have been a habitat for life."
+                ]
+            ],
+            [
+                [
+                    "Viking 1 was the first of a pair of complex deep-space probes designed to reach Mars and collect evidence on whether life could exist there. Both Viking missions used an orbiter plus a lander.",
+                    "Each spacecraft had an orbiter (2,339 kg) and a lander (978 kg). The orbiter design borrowed heavily from the Mariner spacecraft buses, while the lander looked like a much larger Surveyor lunar lander.",
+                    "The Soviet Mars 3 lander claimed a technical first with a survivable landing in 1971, but contact was lost seconds after touchdown.",
+                    "Mission design and management: NASA, Langley Research Center and JPL.",
+                    "Before launch, the batteries of the first spacecraft were discharged, so NASA replaced it with the second, which flew as Viking 1. That is why the page lists it as Viking-B."
+                ],
+                [
+                    "20 August 1975: launch on a Titan IIIE-Centaur from Complex 41 at Cape Canaveral, 21:22:00 UT. Course corrections followed on 27 August 1975, 10 June 1976 and 15 June 1976.",
+                    "19 June 1976: entry into Mars orbit, initially 1,500 × 50,300 km, then an operational orbit of 1,500 × 32,800 km the next day.",
+                    "That same day the orbiter’s photos of the primary site in Chryse showed the terrain was rougher than expected. Scientists used the new photos to retarget the lander to the western slopes of Chryse Planitia.",
+                    "20 July 1976: the lander separated at 08:32 UT and set down at 11:53:06 UT at 22.483° N, 47.94° W, about 28 km from the planned target. On the way down it took air samples.",
+                    "It began taking three-color photographs and a 300° panorama. Temperatures ran from −86°C before dawn to −33°C in the afternoon. The seismometer was inoperable.",
+                    "28 July: the robot arm scooped the first soil samples into the biological laboratory and gas chromatograph mass spectrometer.",
+                    "Primary mission ended in November 1976, followed by the Extended Mission (to May 1978), the Continuation Mission (to July 1979) and the orbiter’s Survey Mission (to July 1980). The lander kept sending daily, then weekly, weather reports in the Viking Monitor Mission.",
+                    "January 1982: the lander was renamed the Thomas Mutch Memorial Station, honouring the imaging-team leader who died on 6 October 1980.",
+                    "7 August 1980: the orbiter was shut down after running out of attitude-control propellant on its 1,489th orbit.",
+                    "11 November 1982: a faulty command from Earth interrupted communications with the lander, and attempts to restore contact failed."
+                ],
+                [
+                    "Total mass 3,527 kg (7,776 lb), made up of the orbiter (2,339 kg / 5,157 lb) and the lander (978 kg / 2,156 lb). Orbiters were solar-powered. Each lander carried two SNAP-19 radioisotope thermoelectric generators.",
+                    "Orbiter instruments: imaging system (two Vidicon cameras), infrared water-vapor spectrometer (MAWD) and infrared thermal-mapping radiometer (IRTM).",
+                    "Lander instruments: two facsimile cameras, gas chromatograph mass spectrometer, seismometer, X-ray fluorescence spectrometer, biological laboratory, weather package (temperature, pressure, wind) and remote sampler arm.",
+                    "Aeroshell instruments: retarding potential analyzer, upper-atmosphere mass spectrometer, and pressure, temperature and density sensors."
+                ],
+                [
+                    "NASA lists the mission as successful. Viking 1 began the surface exploration of Mars that later missions have continued."
+                ]
+            ],
+            [
+                [
+                    "Launch: 5 May 2018 on an Atlas V-401 from Vandenberg Air Force Base, California.",
+                    "Goal: study Mars’ interior structure to understand how rocky planets formed and evolved. NASA frames it as taking Mars’ “vital signs: its pulse, temperature, and reflexes.”",
+                    "Design: built on the Phoenix lander design. Two small CubeSats, Mars Cube One (MarCO), flew to Mars behind it."
+                ],
+                [
+                    "26 November 2018: InSight landed at 11:52:59 a.m. PT in western Elysium Planitia, a flat, smooth plain near the equator at about 4.5° N, 135.9° E. The site was chosen for safety, not for surface features.",
+                    "First weeks: the arm (over 1.8 m long) placed a seismometer and a heat probe on the surface. On 1 December 2018 InSight recorded wind-induced vibrations, with estimated winds of 5 to 7 m/s.",
+                    "The mole problem: the heat probe was meant to burrow about 5 m, but the soil was very different from what engineers expected, so it could not reach the desired depth.",
+                    "Results: marsquake data suggests rocky impactor material sits in giant lumps throughout the mantle, and meteoroid-caused marsquakes start deeper than expected.",
+                    "End: the mission ended on 15 December 2022."
+                ],
+                [
+                    "Atlas V-401, lander mass 360 kg (794 lb).",
+                    "Size: 6 m long with the solar panels deployed, deck 1.56 m across, deck height 83 to 108 cm. Two solar panels, each about 2.2 m in diameter.",
+                    "SEIS: a seismometer placed on the surface by the arm, covered by a wind and thermal shield.",
+                    "HP3: a robotic “mole” meant to burrow about 5 m for heat flow measurements.",
+                    "Radio science: a third experiment, which the NASA page mentions without naming it.",
+                    "Cameras: a colour arm camera (45° field of view) and a colour body camera (120° fisheye), both 1,024 × 1,024 pixels. The lander also carried weather and magnetic field sensors."
+                ],
+                [
+                    "InSight gave Mars what NASA calls its first thorough checkup since it formed 4.5 billion years ago, even though its heat probe could not dig in. The silent lander still sits in Elysium Planitia."
+                ]
+            ],
+            [
+                [
+                    "Launch: 27 September 2007, 7:34 a.m. EDT, from Cape Canaveral on a Delta II Heavy.",
+                    "Targets: Vesta and Ceres, two very different bodies in the main asteroid belt between Mars and Jupiter.",
+                    "Why it mattered: NASA calls Dawn its first truly interplanetary spaceship, because it could park at one body, study it for months, then leave for the next."
+                ],
+                [
+                    "16 July 2011: Dawn arrived at Vesta and studied it until 5 September 2012.",
+                    "6 March 2015: Dawn arrived at Ceres and entered orbit.",
+                    "31 October 2018: the hydrazine that controls the spacecraft’s pointing ran out. Without it Dawn could no longer aim its antennas at Earth or its solar panels at the Sun.",
+                    "1 November 2018: the mission ended after Dawn missed two scheduled contacts with NASA’s Deep Space Network."
+                ],
+                [
+                    "Delta II Heavy 2925H-9.5 with a Star 48 upper stage. Spacecraft mass 747.1 kg, including 425 kg of xenon propellant at launch.",
+                    "Ion propulsion: three thrusters, each 8.9 kg, with thrust from 19 to 91 millinewtons. At full thrust Dawn could speed up from 0 to 60 mph in about 4 days. About 14 kg of xenon was estimated to remain at the end.",
+                    "Power: two solar arrays about 20 m across tip to tip, giving more than 10 kW at Earth’s distance and 1.4 kW near Ceres, plus a nickel-hydrogen battery.",
+                    "Size: body 1.64 × 1.27 × 1.77 m, with a 1.52 m high-gain antenna."
+                ],
+                [
+                    "Dawn showed that Vesta and Ceres are completely different, and it ended only because it ran out of pointing fuel, not because of a failure. It is still orbiting Ceres."
+                ]
+            ],
+            [
+                [
+                    "Launch: 17 February 1996 at 20:43:27 UT from Cape Canaveral, Launch Complex 17B, on a Delta 7925-8.",
+                    "Goal: rendezvous with the asteroid 433 Eros and study its physical properties, minerals, shape, internal mass distribution and magnetic field.",
+                    "Program: it was the first mission of NASA’s Discovery program."
+                ],
+                [
+                    "27 June 1997: flyby of the asteroid Mathilde at about 1,200 km.",
+                    "23 January 1998: Earth gravity assist.",
+                    "23 December 1998: first flyby of Eros, on a revised trajectory after an engine burn was aborted.",
+                    "14 February 2000: orbit insertion at Eros at 15:33 UT, about a year later than planned.",
+                    "12 February 2001: landing at 19:44 UT near the saddle-shaped feature Himeros, at about 6.4 km/h.",
+                    "28 February 2001: last contact, after the spacecraft succumbed to extreme cold of about −173°C. A recovery attempt on 10 December 2002 failed."
+                ],
+                [
+                    "Delta 7925-8 (D232), spacecraft mass 805 kg.",
+                    "Six science investigations: Multi-Spectral Imager, Magnetometer, Near Infrared Spectrometer, X-Ray/Gamma-Ray Spectrometer, Laser Rangefinder, and a radio science and gravimetry experiment."
+                ],
+                [
+                    "NEAR Shoemaker returned roughly ten times the data planned and ended as the first human-made object to settle on an asteroid. It is still on Eros."
+                ]
+            ]
+        ],
+        "additional": [
+            [
+                "Science highlights from NASA: Rounded pebbles and cobbles suggest conglomerates formed in running water during a warmer past.",
+                "Radio tracking placed the radius of the planet’s metallic core between about 1,300 km and 2,000 km.",
+                "Airborne dust is magnetic, and its mineral is likely maghemite, a strongly magnetic form of iron oxide.",
+                "Dust devils were detected by temperature, wind and pressure sensors, and appear to mix dust into the atmosphere.",
+                "Early-morning water-ice clouds were seen, and abrupt morning temperature swings suggest heating from the surface.",
+                "NASA’s pages don’t give the spacecraft mass or the cruise duration, so they are omitted here."
+            ],
+            [
+                "Highlights from NASA’s list of discoveries: acidic, salty water at Meridiani; near-neutral, warmer, wetter conditions at Comanche, with rocks about 10 times richer in magnesium and iron carbonates than any previously studied; hot-spring or steam-vent silica at Home Plate; gypsum veins at Endeavour formed by water flowing through underground fractures; and clay minerals at Endeavour formed in neutral-pH water, which NASA calls the friendliest conditions for ancient life that Opportunity studied.",
+                "Opportunity also monitored clouds, dust and atmospheric opacity for over 14 years and how they affected its solar panels.",
+                "NASA’s infographic gives roughly 14 years of lifespan, over 300,000 raw images and up to 28 miles driven.",
+                "The off-Earth driving record held by Opportunity was passed on 11 October 2026 by Perseverance, at 45.22 km (28.10 miles).",
+                "Sources differ slightly on Opportunity’s landing date: 24 January 2004 in the mission table (Pacific time) and 25 January UT in an image caption. Both refer to the same landing."
+            ],
+            [
+                "The four soil samples gave data that could have been read as a weak positive for life. The gas chromatograph test, which could detect organic compounds above roughly 10–100 parts per billion, gave negative results.",
+                "Data showed an abundance of sulfur, unlike any known material on Earth or the Moon.",
+                "Combined results for both Viking missions: the two orbiters returned 52,663 images and mapped about 97% of the surface at 300 m resolution, while the landers returned 4,500 photos. These totals cover both missions, not Viking 1 alone.",
+                "NASA’s “Viking: 50 Years on Mars” page marks the anniversary of the 1976 landing."
+            ],
+            [
+                "Science goals: the size and state of the core, the thickness and structure of the crust, the makeup of the mantle and the heat still flowing out of Mars. It also measured how tectonically active Mars is and how often meteorites hit it.",
+                "The NASA page does not give the cause of the end of the mission. From general knowledge, dust built up on the solar panels and left too little power. Check this against a NASA source before using it."
+            ],
+            [
+                "Vesta: the mission confirmed it as the parent body of HED meteorites (howardites, eucrites and diogenites), linked to a large basin at its south pole. It is small but differentiated, with an iron core, a silicate mantle and an igneous crust. It also had hydrated and carbon-rich surface material delivered by impactors.",
+                "Ceres: water and ammonia reacted with silicate rock there, producing an ocean world. Salt and other minerals left as the ocean froze are exposed in many places, and organic compounds were detected at several locations.",
+                "Final orbit: because of planetary protection rules, Dawn was not crashed into Ceres. It will stay in orbit for at least 20 years, with over 99% confidence that it will last at least 50 years.",
+                "Not found on the NASA pages I opened: the instruments and the total distance travelled. From general knowledge Dawn carried framing cameras, a visible and infrared spectrometer and a gamma ray and neutron detector, but this is not confirmed here.",
+                "Number to check: the spacecraft page gives the solar array span as both 19.7 m and 20 m."
+            ],
+            [
+                "Mathilde: covered in craters and less dense than people believed.",
+                "Eros: smaller than expected, with two medium-sized craters and a long ridge, and a density similar to Earth’s crust. It has no magnetic field.",
+                "Coverage: NEAR mapped more than 70% of Eros’s surface and returned about 160,000 images.",
+                "Not on the NASA page: the page does not say the landing was an add-on rather than the plan. From general knowledge NEAR was not designed to land, so check this before using it."
+            ]
+        ]
+    }
+}

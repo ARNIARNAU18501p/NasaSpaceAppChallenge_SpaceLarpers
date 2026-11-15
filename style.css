@@ -1,0 +1,136 @@
+:root{
+    --bg:#0d141d;--ink:#e6ebf2;--muted:#9aa8ba;--line:#26323f;--card:#141d29;
+    --test:#8da2c4;--orbit:#5aa9e0;--land:#4fc09b;--lost:#e57c63;
+    box-sizing:border-box;
+    padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+    color-scheme:dark;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{
+    margin:0;
+    background-color:var(--bg);
+    background-image:
+        radial-gradient(2px 2px at 24px 36px, rgba(255,255,255,.85), transparent),
+        radial-gradient(2.5px 2.5px at 95px 140px, rgba(255,255,255,.75), transparent),
+        radial-gradient(1.5px 1.5px at 175px 60px, rgba(220,235,255,.85), transparent),
+        radial-gradient(2px 2px at 240px 190px, rgba(255,255,255,.7), transparent),
+        radial-gradient(2.5px 2.5px at 310px 95px, rgba(255,255,255,.8), transparent),
+        radial-gradient(1.5px 1.5px at 60px 230px, rgba(210,230,255,.75), transparent),
+        radial-gradient(1.5px 1.5px at 140px 25px, rgba(255,255,255,.65), transparent),
+        radial-gradient(2px 2px at 275px 240px, rgba(230,240,255,.8), transparent);
+    background-size:350px 260px;
+    color:var(--ink);
+    font:400 1rem/1.55 "IBM Plex Sans",system-ui,sans-serif;
+}
+body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+    z-index:50;
+    box-shadow:
+        inset 0 42px 55px -28px rgba(230,238,250,.16),
+        inset 0 -42px 55px -28px rgba(230,238,250,.16);
+}
+main{max-width:46rem;margin:0 auto;padding:2.5rem 1.25rem 4rem}
+h1{font:700 clamp(2.2rem,7vw,3.6rem)/1.05 Newsreader,Georgia,serif;margin:0 0 .75rem;letter-spacing:-.01em}
+.lead{color:var(--muted);max-width:36rem;margin:0 0 1.5rem}
+.legend{display:flex;flex-wrap:wrap;gap:.4rem 1.1rem;margin:0 0 2rem;padding:0;list-style:none;font-size:.9rem;color:var(--muted)}
+.legend i{display:inline-block;width:.8rem;height:.8rem;border-radius:50%;border:3px solid;margin-right:.4rem;vertical-align:-.1rem}
+.missions{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+.mission{display:grid;grid-template-columns:4.5rem 1fr;gap:1rem;padding:1.25rem 0;border-bottom:1px solid var(--line)}
+.patch{width:4.5rem;height:4.5rem}
+h2{font:700 1.45rem/1.2 Newsreader,Georgia,serif;margin:0}
+.meta{margin:.1rem 0 .4rem;font-size:.88rem;color:var(--muted)}
+.line{margin:0 0 .6rem}
+.links{display:flex;flex-wrap:wrap;gap:.4rem 1.25rem;font-size:.92rem;font-weight:500}
+a{color:var(--orbit);text-underline-offset:.2em}
+a:focus-visible{outline:2px solid var(--orbit);outline-offset:3px;border-radius:2px}
+footer{margin-top:2rem;color:var(--muted);font-size:.85rem}
+
+/* detail view */
+.back{display:inline-block;margin-bottom:1.5rem;font-weight:500}
+.dhead{display:grid;grid-template-columns:6rem 1fr;gap:1.25rem;align-items:center;margin-bottom:1.5rem}
+.dhead .patch{width:6rem;height:6rem}
+.dhead h1{font-size:clamp(2rem,6vw,3rem);margin:0}
+.detail h3{font:700 1.25rem/1.2 Newsreader,Georgia,serif;margin:1.75rem 0 .4rem}
+.detail p{margin:0 0 .5rem;max-width:40rem}
+.pager{display:flex;justify-content:space-between;gap:1rem;margin-top:2.5rem;padding-top:1rem;border-top:1px solid var(--line);font-weight:500}
+
+/* photo galleries and lightbox */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(9rem,1fr));gap:.6rem;margin:.5rem 0 0;padding:0;list-style:none}
+.gallery.strip{grid-template-columns:repeat(4,1fr);gap:.4rem;margin:.2rem 0 .7rem;max-width:26rem}
+.gallery button{display:block;width:100%;aspect-ratio:4/3;padding:0;border:1px solid var(--line);border-radius:4px;background:var(--card);overflow:hidden;cursor:zoom-in}
+.gallery button:focus-visible{outline:2px solid var(--orbit);outline-offset:2px}
+.gallery img{width:100%;height:100%;object-fit:cover;display:block}
+.gnote{color:var(--muted);font-size:.88rem;margin:.3rem 0 0}
+.lightbox{max-width:min(92vw,60rem);max-height:92vh;padding:0;border:0;border-radius:6px;background:var(--card);color:var(--ink)}
+.lightbox::backdrop{background:rgba(5,10,16,.85)}
+.lightbox img{display:block;max-width:100%;max-height:78vh;margin:0 auto}
+.lightbox figcaption{padding:.6rem 1rem;font-size:.9rem;display:flex;justify-content:space-between;gap:1rem;align-items:center}
+.lightbox button{font:inherit;font-weight:500;background:none;border:1px solid var(--line);border-radius:4px;color:var(--ink);padding:.25rem .7rem;cursor:pointer}
+
+/* home */
+.home{text-align:center}
+.home h1{margin-bottom:1rem;text-transform:uppercase;letter-spacing:.03em}
+.home .lead{margin:0 auto 3rem;font-size:1.08rem}
+.worlds{display:grid;gap:3rem}
+.world{margin:0}
+.world h2{font-size:2rem;margin:1.25rem 0 .3rem}
+.world p{color:var(--muted);margin:0 auto .8rem;max-width:30rem}
+.world .go{font-weight:500;font-size:1.02rem}
+
+@media (min-width:48rem){
+    main:has(.home){max-width:64rem}
+    .worlds{grid-template-columns:1fr 1fr;gap:4rem;align-items:start}
+}
+
+/* rotating planets */
+.globe-link{display:inline-block;border-radius:50%}
+.globe-link:focus-visible{outline-offset:8px;border-radius:50%}
+.globe{position:relative;width:min(78vw,22rem);aspect-ratio:1;border-radius:50%;overflow:hidden;margin:0 auto;transition:transform .4s ease}
+.globe-link:hover .globe{transform:scale(1.03)}
+.globe .tex{position:absolute;top:0;left:0;height:100%;width:400%;display:flex;animation:spin 90s linear infinite}
+.globe .tex svg{width:50%;height:100%;flex:none}
+.globe::after{content:"";position:absolute;inset:0;border-radius:50%;
+    background:radial-gradient(circle at 34% 32%,rgba(255,255,255,.18),transparent 38%),radial-gradient(circle at 50% 50%,transparent 52%,rgba(0,0,0,.55) 72%,rgba(0,0,0,.92) 100%);
+    box-shadow:inset -1.6rem -1.2rem 3rem rgba(0,0,0,.55)}
+.globe.moon{box-shadow:0 0 4rem rgba(200,205,215,.25)}
+.globe.mars{box-shadow:0 0 4rem rgba(210,90,40,.25)}
+.globe.small{width:min(60vw,14rem)}
+.globe.moon .moon-video,
+.globe.mars .mars-video{
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+    transform:scale(2.7);
+    transform-origin:center;
+}
+.globe.mars::after{
+    background:
+        radial-gradient(circle at 34% 32%,rgba(255,255,255,.12),transparent 38%),
+        radial-gradient(circle at 50% 50%,transparent 70%,rgba(0,0,0,.35) 100%);
+    box-shadow:inset -1rem -.8rem 2rem rgba(0,0,0,.35);
+}
+@keyframes spin{to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.globe .tex{animation:none}.globe-link:hover .globe{transform:none}}
+
+/* small screens */
+@media (max-width:30rem){
+    .mission{grid-template-columns:3.5rem 1fr}.patch{width:3.5rem;height:3.5rem}
+    .dhead{grid-template-columns:4.5rem 1fr}.dhead .patch{width:4.5rem;height:4.5rem}
+}
+
+/* Moon hub */
+.program{margin:0 0 2rem;padding:1.5rem 1.25rem;border:1px solid var(--line);border-radius:8px;background:var(--card)}
+.program h2{font-size:1.6rem;margin:0 0 .6rem}
+.program p{margin:0 0 .7rem;max-width:40rem}
+.program .points{margin:0 0 .9rem;padding-left:1.2rem;max-width:40rem}
+.program .points li{margin:.2rem 0}
+.program .note{color:var(--muted);font-size:.9rem}
+.program .fact{padding:.6rem .9rem;border-left:3px solid var(--orbit);background:var(--bg);border-radius:0 4px 4px 0}
+.program .gallery.strip{max-width:none;margin:.9rem 0 0}
+.program .gnote{margin:.3rem 0 .9rem}
+.program .go{display:inline-block;font-weight:500;font-size:1.02rem}
